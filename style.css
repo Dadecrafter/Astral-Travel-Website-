@@ -130,3 +130,9 @@ body {
 ::-webkit-scrollbar {
     display: none;
 }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #01041b;
+    color: white;
